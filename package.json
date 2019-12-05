@@ -1,0 +1,19 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bytedance-ee/nodeDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bytedance-ee/nodeDemo/issues"
+  },
+  "homepage": "https://github.com/bytedance-ee/nodeDemo#readme"
+}
